@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @silaskoemen
-- 👀 I’m interested in Data Science, programming and Econometrics
-- 🌱 I’m currently learning to build bigger projects in Python
-- 💞️ I’m looking to collaborate on Data Science projects, preferably related to some kind of personalization algorithm (Spotify recommender etc.)
+- 👀 I’m interested in Data Science, Machine Learning and how to use those models and techniques in impactful real-world projects
+- 🌱 I’m expanding my knowledge by building bigger standalone python projects
 - 📫 How to reach me: just here ig
 
 <!---
