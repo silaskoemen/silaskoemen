@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @silaskoemen
-- 👀 I’m interested in Data Science, Machine Learning and how to use those models and techniques in impactful real-world projects
-- 🌱 I’m expanding my knowledge by building bigger standalone python projects
-- 📫 How to reach me: just here ig
+Currently studying the MSc Statistics at Imperial College and mainly interested in Machine Learning and Data Science with applications in Public Health or Public Good
 
 <!---
 silaskoemen/silaskoemen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
