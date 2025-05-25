@@ -1,4 +1,4 @@
-Just started working as a Data Scientist at QuantCo (health care division) after finishing the MSc Statistics at Imperial College London. Mainly interested in Machine Learning and Data Science with applications in Public Health or Public Good
+Working as a Data Scientist at QuantCo (health care division) after finishing the MSc Statistics at Imperial College London. Mainly interested in Machine Learning and Data Science with applications in Public Health or Public Good
 
 <!---
 silaskoemen/silaskoemen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
