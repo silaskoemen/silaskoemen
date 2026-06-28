@@ -1,0 +1,57 @@
+{
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "security.workspace.trust.untrustedFiles": "open",
+    "application.shellEnvironmentResolutionTimeout": 60,
+    "remote.SSH.connectTimeout": 60,
+    "editor.inlayHints.enabled": "off",
+    "markdown.math.enabled": true,
+    "python.languageServer": "None",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "jupyter.askForKernelRestart": false,
+    "interactiveWindow.executeWithShiftEnter": true,
+    "editor.tokenColorCustomizations": {
+        "[Monokai]": {
+            "comments" : "#5fbfeb"
+        },
+        "[*Light*]": {
+            "comments": "#55a5ca",
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#000"
+                    }
+                }
+            ]
+        },
+        "[*Dark*]": {
+            "comments": "#55a5ca",
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#fff"
+                    }
+                }
+            ]
+        }
+    },
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+        "comments" : "#55a5ca"
+        
+    },
+    "window.zoomLevel": -1.6,
+    "python.analysis.typeCheckingMode": "standard",
+    "workbench.settings.applyToAllProfiles": [],
+    "customWindowZoom.zoomLevelChangeValue": 0.1,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.chat.agent.thinkingTool": true,
+    "editor.cursorSurroundingLines": 20,
+    "terminal.integrated.scrollback": 50000,
+    "claudeCode.preferredLocation": "panel",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "workbench.startupEditor": "none"
+    }
